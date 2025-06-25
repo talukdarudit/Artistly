@@ -9,7 +9,7 @@ const Navbar = () => {
         <div className="text-2xl font-bold text-blue-700">Artistly</div>
         <nav className="space-x-2">
           <Link href="/">Home</Link>
-          <Link href="/listing">Explore Artists</Link>
+          <Link href="/listing">Explore</Link>
           <Link href="/onboarding">Onboard</Link>
         </nav>
       </header>
