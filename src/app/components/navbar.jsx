@@ -10,7 +10,6 @@ const Navbar = () => {
         <nav className="space-x-6">
           <Link href="/">Home</Link>
           <Link href="/listing">Explore Artists</Link>
-          <Link href="">Dashboard</Link>
           <Link href="/onboarding">Onboard</Link>
         </nav>
       </header>
