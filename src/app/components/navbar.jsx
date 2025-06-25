@@ -7,7 +7,7 @@ const Navbar = () => {
     <div>
       <header className="w-full bg-white shadow p-4 flex justify-between items-center">
         <div className="text-2xl font-bold text-blue-700">Artistly</div>
-        <nav className="space-x-6">
+        <nav className="space-x-2">
           <Link href="/">Home</Link>
           <Link href="/listing">Explore Artists</Link>
           <Link href="/onboarding">Onboard</Link>
